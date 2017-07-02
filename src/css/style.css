@@ -296,7 +296,7 @@ div #home{
     background-position: 0 0 ;
     background-size: 1522px 902px;
     left: 44px;
-    top: 70px;
+    top: 50px;
 }
 
 .btn-back{
@@ -312,3 +312,8 @@ div #home{
     cursor: pointer;
 }
 
+.detail-leaf{
+    position: fixed;
+    right: 240px;
+    top: 20px;
+}
