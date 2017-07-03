@@ -49,12 +49,24 @@ div #home{
     background-size: 1920px 1080px;
 }
 
+/*介绍背景*/
+
 .intropage{
     background-image: url("../img/introduction.png");
     background-repeat: no-repeat;
     background-position: 0 0 ;
     background-size: 1920px 1080px;
 }
+
+/*地理背景*/
+.geopage{
+    background-image: url("../img/geopage.png");
+    background-repeat: no-repeat;
+    background-position: 0 0 ;
+    background-size: 1920px 1080px;
+}
+
+/*详情背景*/
 
 .detailpage{
     background-image: url("../img/detailbackgroundimg.png");

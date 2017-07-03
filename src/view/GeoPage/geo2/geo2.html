@@ -7,10 +7,10 @@
     <title>乌江画廊</title>
     <link rel="stylesheet" type="text/css" href="../../../css/style.css">
     <link rel="stylesheet" type="text/css" href="../../../css/swiper-3.4.2.min.css">
-    <link rel="stylesheet" type="text/css" href="../../../css/introduction.css">
+    <link rel="stylesheet" type="text/css" href="../../../css/geoStyle.css">
 
 </head>
-<body class="intropage">
+<body class="geopage">
 
 <div class="row">
 
@@ -20,11 +20,19 @@
 
         <div class="swiper-container">
             <div class="swiper-wrapper">
-                <div class="swiper-slide" style="background-image: url('../../../img/wu.png'); margin-left: 465px">
+                <div class="swiper-slide" style="background-image: url('../../../img/wanzhuguzhen.png'); margin-left: 225px">
                     <a class="sld-link" href="contents/detail1.html">
                         <div class="sld-word">
-                            <div class="sld-title">雾</div>
-                            <div class="sld-abstract">乌江画廊峰石在云海中时隐时现...</div>
+                            <div class="sld-title">万足古镇</div>
+                            <div class="sld-abstract">拥有三百多年历史的万足古镇位于…</div>
+                        </div>
+                    </a>
+                </div>
+                <div class="swiper-slide" style="background-image: url('../../../img/gongtanguzhen.png');">
+                    <a class="sld-link" href="contents/detail2.html">
+                        <div class="sld-word">
+                            <div class="sld-title">龚滩古镇</div>
+                            <div class="sld-abstract">龚滩古镇自古以来即是川（渝）…</div>
                         </div>
                     </a>
                 </div>
@@ -48,16 +56,16 @@
                     <div class="tab-en">HOME</div>
                 </a>
             </li>
-            <li class=" list-active list-group-item">
-                <a  class="navli" id="link-introduction" href="../intro/intro.html">
-                    <div class="tab-cn-active">景区介绍</div>
-                    <div class="tab-en-active">Scenic Introduction</div>
+            <li class=" headlist list-group-item">
+                <a  class="navli" id="link-introduction" href="../../IntroPage/intro/intro.html">
+                    <div class="tab-cn">景区介绍</div>
+                    <div class="tab-en">Scenic Introduction</div>
                 </a>
             </li>
-            <li  class="headlist list-group-item">
+            <li  class="list-active list-group-item">
                 <a class="navli" id="link-geography" href="../../GeoPage/geo1/geo.html">
-                    <div class="tab-cn">地理文化</div>
-                    <div class="tab-en">Geographical Culture</div>
+                    <div class="tab-cn-active">地理文化</div>
+                    <div class="tab-en-active">Geographical Culture</div>
                 </a>
             </li>
             <li class="headlist list-group-item">
@@ -87,28 +95,26 @@
 
 </div>
 
-<div class="copyright"> &copy; 版权所有 未经允许，不得轻易抄袭</div>
-<div class="intro-view-nav">
 
-    <img  id="intro_nav_frame" src="../../../img/intro_frame.png">
-    <a id="intro1" class="intro_nav" href="../intro/intro.html">
-        <span class="intro_nav_title">
-            山
+
+<div class="copyright"> &copy; 版权所有 未经允许，不得轻易抄袭</div>
+
+<div class="geo-view-nav">
+
+    <img  id="geo_nav_frame" src="../../../img/geo_nav_frame.png">
+    <a id="geo1" class="geo_nav" href="../geo1/geo.html">
+        <span class="geo_nav_title">
+            商贾重镇
         </span>
     </a>
-    <a id="intro2" class="intro_nav" href="../intro2/intro2.html">
-        <span class="intro_nav_title">
-            水
+    <a id="geo2" class="geo_nav_active">
+        <span class="geo_nav_title">
+            民族风情
         </span>
     </a>
-    <a id="intro3" class="intro_nav" href="../intro3/intro3.html">
-        <span class="intro_nav_title">
-            云
-        </span>
-    </a>
-    <a id="intro4" class="intro_nav_active" >
-        <span class="intro_nav_title">
-            雾
+    <a id="geo3" class="geo_nav" href="../geo3/geo3.html">
+        <span class="geo_nav_title">
+            人文历史
         </span>
     </a>
 
@@ -126,11 +132,11 @@
         direction: 'horizontal',
         loop: false,
 
-        slidesPerView: 3,
+        slidesPerView: 2,
         spaceBetween: 30,
         // 如果需要前进后退按钮
         nextButton: '.swiper-button-next',
-        prevButton: '.swiper-button-prev',
+        prevButton: '.swiper-button-prev'
 
 
     })

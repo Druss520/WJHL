@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'zktqkt';
+    src: url('../font/zktqkt.ttf') format('truetype');
+}
+
+
+*{
+    -webkit-user-select: none;
+    -moz-user-select: -moz-none;
+    /*IE10*/
+    -ms-user-select: none;
+    user-select: none;
+
+    /*You just need this if you are only concerned with android and not desktop browsers.*/
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+a{
+    text-decoration: none;
+    color: #0f0f0f;
+}
+
+#geo_nav_frame{
+    position: fixed;
+    top:970px;
+    left: 500px;
+}
+
+.geo_nav{
+    display: inline-block;
+    height: 96px;
+    width: 96px;
+    background-image: url("../img/brackets_03.png");
+    background-size: 96px 96px;
+    text-align: center;
+}
+
+.geo_nav_title{
+    display: inline-block;
+    margin: 10px auto auto 0;
+    font-family: 'zktqkt';
+    font-size: 32px;
+    color: #ffffff;
+    width: 70px;
+}
+
+.geo_nav_active{
+    display: inline-block;
+    height: 96px;
+    width: 96px;
+    background-image: url("../img/greenl_label.png");
+    background-size:96px 96px ;
+    text-align: center;
+}
+
+#geo1{
+    position: fixed;
+    top:930px;
+    left: 555px;
+}
+
+#geo2{
+    position: fixed;
+    top:930px;
+    left: 762px;
+}
+
+#geo3{
+    position: fixed;
+    top: 930px;
+    left: 965px;
+}
