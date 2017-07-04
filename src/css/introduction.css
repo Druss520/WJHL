@@ -58,6 +58,15 @@ a{
     color: #ffffff;
 }
 
+.intro_nav_title_en{
+    font-family: "Bell MT";
+    display: inline-block;
+    margin: 35px auto;
+    font-size: 20px;
+    color: #ffffff;
+
+}
+
 #intro1{
     position: fixed;
     left: 479px;

@@ -1,10 +1,140 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="no-js" >
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+    <meta charset="UTF-8" http-equiv="Content-Type" content="text/html">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>乌江画廊</title>
+    <link rel="stylesheet" type="text/css" href="../../css/style.css">
+    <link rel="stylesheet" type="text/css" href="../../css/feedback.css">
+    <!--<style type="text/css">-->
+    <!--.detail-title{-->
+    <!--margin: 80px auto auto 475px;-->
+
+    <!--}-->
+
+    <!--.detail-text{-->
+    <!--width: 1335px;-->
+    <!--margin: 30px auto;-->
+    <!--font-size: 16.11px;-->
+    <!--color: #666666;-->
+    <!--}-->
+
+    <!--</style>-->
+
 </head>
-<body>
+<body class="feedbackpage">
+
+
+<div id="p1" class="codepic ">
+    <img src="../../img/wechat_comp.png" alt="" class="code-img">
+    <div class="word">官方微信</div>
+</div>
+<div id="p2" class="codepic ">
+    <img src="../../img/weibo_comp.png" alt="" class="code-img">
+    <div class="word">官方微博</div>
+</div>
+<!--<div id="p3" class="codepic ">-->
+    <!--<img src="../../img/code-wx.png" alt="" class="code-img">-->
+    <!--<div class="word">语音导游</div>-->
+<!--</div>-->
+
+<div class="row">
+
+    <div class="container left-block">
+
+        <iframe class="map-outlet" width='1160' height='706' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' src='http://f.amap.com/UVqv_00931Jm'></iframe>
+
+        <img id="dianhua" src="../../img/dianhua_icon.png">
+
+        <img id="diqiu" src="../../img/diqiu_icon.png">
+
+        <img id="dianhua_animate" src="../../img/dianhua_animate.png">
+
+        <img id="diqiu_animate" src="../../img/diqiu_animate.png">
+
+
+    </div>
+
+
+    <div class="container right-block ">
+
+        <ul id="navigation" class="list-group">
+            <li class="headlist list-group-item">
+                <a class="navli" id="link-home" href="../../index.html">
+                    <div class="tab-cn">主页</div>
+                    <div class="tab-en">HOME</div>
+                </a>
+            </li>
+            <li class=" headlist list-group-item">
+                <a  class="navli" id="link-introduction" href="../IntroPage/intro/intro.html">
+                    <div class="tab-cn">景区介绍</div>
+                    <div class="tab-en">Scenic Introduction</div>
+                </a>
+            </li>
+            <li  class="headlist list-group-item">
+                <a class="navli" id="link-geography" href="../GeoPage/geo1/geo.html">
+                    <div class="tab-cn">地理文化</div>
+                    <div class="tab-en">Geographical Culture</div>
+                </a>
+            </li>
+            <li class="headlist list-group-item">
+                <a class="navli" id="link-tourism" href="../ServPage/serv1/serv.html">
+                    <div class="tab-cn">旅游服务</div>
+                    <div class="tab-en">Travel Service</div>
+                </a>
+            </li>
+            <li class="headlist list-group-item">
+                <a class="navli" id="link-scene" href="../RoamingPage/roaming.html">
+                    <div class="tab-cn">3D实景漫游</div>
+                    <div class="tab-en">3D Real Roaming</div>
+                </a>
+            </li>
+            <li class="list-active list-group-item">
+                <a class="navli" id="link-consult" href="../FeedbackPage/feedback.html">
+                    <div class="tab-cn-active">咨询投诉</div>
+                    <div class="tab-en-active">Advisory Complaints</div>
+                </a>
+            </li>
+
+
+        </ul>
+
+
+    </div>
+
+</div>
+
+<div class="copyright-balck"> &copy; 版权所有 未经允许，不得轻易抄袭</div>
+
+
+
+
+
+<script src="../../lib/jquery/dist/jquery.min.js"></script>
+
+
+
+<script>
+
+    $(document).ready(function () {
+        $('#dianhua').click(function () {
+            $('#dianhua_animate').animate({
+                width:'toggle'
+            })
+        })
+    });
+
+    $(document).ready(function () {
+        $('#diqiu').click(function () {
+            $('#diqiu_animate').animate({
+                width:'toggle'
+            })
+        })
+    })
+
+
+</script>
 
 </body>
 </html>

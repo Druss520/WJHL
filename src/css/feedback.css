@@ -1,0 +1,64 @@
+
+.codepic .word{
+    font-size: 18px;
+    font-weight: bold;
+    color: #222222;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#p1{
+    position: fixed;
+    left: 82px;
+    top: 286px;
+}
+
+#p2{
+    position: fixed;
+    left: 82px;
+    top: 471px;
+}
+
+#p3{
+
+    position: fixed;
+    left: 82px;
+    top: 660px;
+}
+
+
+.map-outlet{
+    margin: 66px auto auto 272px;
+}
+
+#dianhua{
+    position: fixed;
+    top: 240px;
+    left:1325px;
+    z-index: 3;
+}
+
+#diqiu{
+    position: fixed;
+    top: 355px;
+    left: 1325px;
+    z-index: 3;
+}
+
+#dianhua_animate{
+    display: none;
+    position: fixed;
+    right: 552px;
+    top: 240px;
+    z-index: 2;
+    height: 88px;
+}
+
+#diqiu_animate{
+    display: none;
+    position: fixed;
+    right: 552px;
+    top: 355px;
+    z-index: 2;
+    height: 88px;
+}

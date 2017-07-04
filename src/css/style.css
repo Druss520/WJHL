@@ -83,6 +83,13 @@ div #home{
     background-size: 1920px 1080px;
 }
 
+/*咨询投诉*/
+.feedbackpage{
+    background-image: url("../img/feedbackpage.png");
+    background-repeat: no-repeat;
+    background-position: 0 0 ;
+    background-size: 1920px 1080px;
+}
 /*版权*/
 .copyright{
     position: fixed;
@@ -281,6 +288,14 @@ div #home{
     text-align: center;
     margin-top: 20px;
 }
+
+.sld-title_en{
+    font-family: "Bell MT";
+    font-size: 35px;
+    text-align: center;
+    margin-top: 15px;
+}
+
 .sld-abstract{
     font-family: 微软雅黑;
     font-size: 18px;
