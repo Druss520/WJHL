@@ -1,78 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17073b7e-3a3d-4db6-b05c-3b9e926c3850" name="Default" comment="fck vcs again and again">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro2/contents/en/detail1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro3/contents/en/detail1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro4/contents/en/detail1.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/view/05-slides-per-view.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/back.png" afterPath="$PROJECT_DIR$/src/img/back.png" />
+    <list default="true" id="17073b7e-3a3d-4db6-b05c-3b9e926c3850" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/style.css" afterPath="$PROJECT_DIR$/src/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index_en.html" afterPath="$PROJECT_DIR$/src/index_en.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/FeedbackPage/feedback.html" afterPath="$PROJECT_DIR$/src/view/FeedbackPage/feedback.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/GeoPage/geo1/contents/detail1.html" afterPath="$PROJECT_DIR$/src/view/GeoPage/geo1/contents/detail1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/GeoPage/geo1/contents/detail2.html" afterPath="$PROJECT_DIR$/src/view/GeoPage/geo1/contents/detail2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/GeoPage/geo1/geo.html" afterPath="$PROJECT_DIR$/src/view/GeoPage/geo1/geo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/GeoPage/geo2/contents/detail1.html" afterPath="$PROJECT_DIR$/src/view/GeoPage/geo2/contents/detail1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/GeoPage/geo2/contents/detail2.html" afterPath="$PROJECT_DIR$/src/view/GeoPage/geo2/contents/detail2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/GeoPage/geo2/geo2.html" afterPath="$PROJECT_DIR$/src/view/GeoPage/geo2/geo2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail1.html" afterPath="$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail2.html" afterPath="$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail3.html" afterPath="$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail4.html" afterPath="$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail5.html" afterPath="$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail6.html" afterPath="$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/GeoPage/geo3/geo3.html" afterPath="$PROJECT_DIR$/src/view/GeoPage/geo3/geo3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail1.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail10.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail10.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail11.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail11.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail12.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail12.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail2.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail3.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail4.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail5.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail6.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail7.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail7.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail8.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail8.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail9.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail9.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail1.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro/intro.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro/intro.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro/intro_en.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro/intro_en.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro2/contents/detail1.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro2/contents/detail1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro2/intro2.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro2/intro2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro2/intro2_en.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro2/intro2_en.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro3/contents/detail1.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro3/contents/detail1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro3/intro3.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro3/intro3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro3/intro3_en.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro3/intro3_en.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro4/contents/detail1.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro4/contents/detail1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro4/intro4.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro4/intro4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro4/intro4_en.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro4/intro4_en.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/RoamingPage/roaming.html" afterPath="$PROJECT_DIR$/src/view/RoamingPage/roaming.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv1/contents/detail1.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv1/contents/detail1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv1/contents/detail2.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv1/contents/detail2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv1/contents/detail3.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv1/contents/detail3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv1/contents/detail4.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv1/contents/detail4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv1/contents/detail5.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv1/contents/detail5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv1/contents/detail6.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv1/contents/detail6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv1/contents/detail7.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv1/contents/detail7.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv1/serv.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv1/serv.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv2/contents/detail1.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv2/contents/detail1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv2/contents/detail2.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv2/contents/detail2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv2/serv2.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv2/serv2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv3/contents/detail1.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv3/contents/detail1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv3/contents/detail2.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv3/contents/detail2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv3/serv3.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv3/serv3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv4/serv4.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv4/serv4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv5/contents/detail1.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv5/contents/detail1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv5/contents/detail2.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv5/contents/detail2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv5/serv5.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv5/serv5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv6/contents/detail1.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv6/contents/detail1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv6/contents/detail2.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv6/contents/detail2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv6/contents/detail3.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv6/contents/detail3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv6/contents/detail4.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv6/contents/detail4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv6/serv6.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv6/serv6.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -122,8 +52,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-408">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1379,7 +1309,7 @@
       <workItem from="1498926395730" duration="31000" />
       <workItem from="1498962756130" duration="37313000" />
       <workItem from="1499068847605" duration="19000000" />
-      <workItem from="1499137450198" duration="21866000" />
+      <workItem from="1499137450198" duration="21981000" />
     </task>
     <task id="LOCAL-00001" summary="2nd commit">
       <created>1498808870151</created>
@@ -1423,15 +1353,21 @@
       <option name="project" value="LOCAL" />
       <updated>1499160361043</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fck vcs again and again">
+      <created>1499178506230</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1499178506230</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174516000" />
+    <option name="totallyTimeSpent" value="174631000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="71" y="106" width="1847" height="867" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22282906" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1464,7 +1400,8 @@
     <MESSAGE value="2nd commit" />
     <MESSAGE value="3rd commit, added geo part" />
     <MESSAGE value="fck vcs again" />
-    <option name="LAST_COMMIT_MESSAGE" value="fck vcs again" />
+    <MESSAGE value="fck vcs again and again" />
+    <option name="LAST_COMMIT_MESSAGE" value="fck vcs again and again" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1897,8 +1834,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="289">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding />
         </state>
       </provider>
