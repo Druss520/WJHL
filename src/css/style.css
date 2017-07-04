@@ -2,7 +2,7 @@
     font-family: 'Bell MT';
     font-style: normal;
     font-weight: 400;
-    src: local('Bell MT W01'), local('BellMT'), url('http://themes.googleusercontent.com/licensed/font?kit=kmIaTfxu8bXVwPRMqRVUug') format('truetype');
+    src: local('Bell MT W01'), local('BellMT'), url('../font/BellMT.ttf') format('truetype');
 }
 /*@font-face {*/
     /*font-family: "Bell MT";*/
@@ -337,11 +337,11 @@ div #home{
 
 .btn-back{
     position: fixed;
-    height: 67px;
+    height: 59px;
     width: 175px;
     background-image: url("../img/back.png");
     background-position: 0 0 ;
-    background-size: 175px 67px;
+    background-size: 175px 59px;
     left: 67px;
     top: 949px;
     border: none;
