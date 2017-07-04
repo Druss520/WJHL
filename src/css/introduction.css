@@ -35,7 +35,9 @@ a{
     height: 96px;
     width: 96px;
     background-image: url("../img/brackets_03.png");
-    background-size: 96px 96px;
+    background-repeat: no-repeat;
+    background-size: 84px 96px;
+    background-position: center;
     text-align: center;
 }
 

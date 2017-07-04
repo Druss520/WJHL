@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'zktqkt';
+    src: url('../font/zktqkt.ttf') format('truetype');
+}
+
+
+*{
+    -webkit-user-select: none;
+    -moz-user-select: -moz-none;
+    /*IE10*/
+    -ms-user-select: none;
+    user-select: none;
+
+    /*You just need this if you are only concerned with android and not desktop browsers.*/
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+a{
+    text-decoration: none;
+    color: #0f0f0f;
+}
+
+#serv_nav_frame{
+    position: fixed;
+    top:970px;
+    left: 188px;
+}
+
+.serv_nav{
+    display: inline-block;
+    height: 96px;
+    width: 96px;
+    background-image: url("../img/brackets_03.png");
+    background-repeat: no-repeat;
+    background-size: 84px 96px;
+    background-position: center;
+    text-align: center;
+}
+
+.serv_nav_title{
+    display: inline-block;
+    margin: 15px auto ;
+    font-family: 'zktqkt';
+    font-size: 52px;
+    color: #ffffff;
+}
+
+.serv_nav_active{
+    display: inline-block;
+    height: 96px;
+    width: 96px;
+    background-image: url("../img/greenl_label.png");
+    background-size:96px 96px ;
+    text-align: center;
+}
+
+#serv1{
+    position: fixed;
+    top:930px;
+    left: 251px;
+}
+
+#serv2{
+    position: fixed;
+    top:930px;
+    left: 455px;
+}
+
+#serv3{
+    position: fixed;
+    top: 930px;
+    left: 665px;
+}
+
+#serv4{
+    position: fixed;
+    top: 930px;
+    left: 860px;
+}
+
+#serv5{
+    position: fixed;
+    top: 930px;
+    left: 1065px;
+}
+
+#serv6{
+    position: fixed;
+    top: 930px;
+    left: 1275px;
+}

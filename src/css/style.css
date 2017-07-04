@@ -66,6 +66,14 @@ div #home{
     background-size: 1920px 1080px;
 }
 
+/*服务页背景*/
+.servpage{
+    background-image: url("../img/servpage.png");
+    background-repeat: no-repeat;
+    background-position: 0 0 ;
+    background-size: 1920px 1080px;
+}
+
 /*详情背景*/
 
 .detailpage{
