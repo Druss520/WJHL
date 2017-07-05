@@ -4,6 +4,12 @@
     font-weight: 400;
     src: local('Bell MT W01'), local('BellMT'), url('../font/BellMT.ttf') format('truetype');
 }
+
+@font-face {
+    font-family: 'bookantiqua bolditalic';
+    font-style: normal;
+    src: url('../font/book-antiqua-bold-italic.ttf') format('truetype');
+}
 /*@font-face {*/
     /*font-family: "Bell MT";*/
     /*src: url('../font/bell-mt-5955af70c4bfa.ttf') format('truetype');*/
@@ -290,10 +296,10 @@ div #home{
 }
 
 .sld-title_en{
-    font-family: "Bell MT";
+    font-family: "bookantiqua bolditalic";
     font-size: 35px;
     text-align: center;
-    margin-top: 15px;
+    margin-top: 5px;
 }
 
 .sld-abstract{
@@ -340,6 +346,19 @@ div #home{
     height: 59px;
     width: 175px;
     background-image: url("../img/back.png");
+    background-position: 0 0 ;
+    background-size: 175px 59px;
+    left: 67px;
+    top: 949px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-back_en{
+    position: fixed;
+    height: 59px;
+    width: 175px;
+    background-image: url("../img/back_en.png");
     background-position: 0 0 ;
     background-size: 175px 59px;
     left: 67px;
