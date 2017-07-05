@@ -46,6 +46,17 @@ a{
     width: 70px;
 }
 
+.geo_nav_title_en{
+    font-family: "Bell MT";
+    display: inline-block;
+    margin: 25px auto;
+    font-size: 20px;
+    color: #ffffff;
+    width: 70px;
+
+}
+
+
 .geo_nav_active{
     display: inline-block;
     height: 96px;
