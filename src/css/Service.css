@@ -45,6 +45,16 @@ a{
     color: #ffffff;
 }
 
+.serv_nav_title_en{
+    font-family: "Bell MT";
+    display: inline-block;
+    margin: 35px auto;
+    font-size: 20px;
+    color: #ffffff;
+    width: 70px;
+
+}
+
 .serv_nav_active{
     display: inline-block;
     height: 96px;
