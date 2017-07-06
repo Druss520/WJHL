@@ -43,7 +43,9 @@
 
     <div class="container left-block">
 
-        <iframe class="map-outlet" width='1160' height='706' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' src='http://f.amap.com/UVqv_00931Jm'></iframe>
+        <!--<iframe class="map-outlet" width='1160' height='706' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' src='http://f.amap.com/UVqv_00931Jm'></iframe>-->
+
+        <div id="map-inside"></div>
 
         <img id="dianhua" src="../../img/dianhua_icon.png">
 
@@ -100,7 +102,65 @@
 </div>
 
 <div class="copyright-en-black"> &copy; All Rights Reserved. Copy not Allowed without Permission</div>
+<script src=http://webapi.amap.com/maps?v=1.3&key=8f99e8c1baf3608626eb0a85e653ed0c"></script>
 
+<script type="text/javascript">
+
+    var map = new AMap.Map('map-inside',{
+        resizeEnable: true,
+        zoom: 15,
+        center: [108.216817,29.19899]
+    });
+
+    var marker = new AMap.Marker({
+        position: [108.216817,29.19899],
+        map:map
+    });
+
+    marker.setMap(map);
+
+    //    map.setFeatures(['road','building','bg'])
+
+    AMap.plugin(['AMap.ToolBar','AMap.Scale'],
+        function(){
+            map.addControl(new AMap.ToolBar());
+
+            map.addControl(new AMap.Scale());
+
+        });
+
+    //    map.plugin('AMap.Geolocation', function () {
+    //        geolocation = new AMap.Geolocation({
+    //            enableHighAccuracy: true,//是否使用高精度定位，默认:true
+    //            timeout: 10000,          //超过10秒后停止定位，默认：无穷大
+    //            maximumAge: 0,           //定位结果缓存0毫秒，默认：0
+    ////            convert: true,           //自动偏移坐标，偏移后的坐标为高德坐标，默认：true
+    //            showButton: true,        //显示定位按钮，默认：true
+    //            buttonPosition: 'LT',    //定位按钮停靠位置，默认：'LB'，左下角
+    //            buttonOffset: new AMap.Pixel(10, 20),//定位按钮与设置的停靠位置的偏移量，默认：Pixel(10, 20)
+    //            showMarker: true,        //定位成功后在定位到的位置显示点标记，默认：true
+    ////            showCircle: true,        //定位成功后用圆圈表示定位精度范围，默认：true
+    //            panToLocation: true,     //定位成功后将定位到的位置作为地图中心点，默认：true
+    //            zoomToAccuracy:true      //定位成功后调整地图视野范围使定位位置及精度范围视野内可见，默认：false
+    //        });
+    //        map.addControl(geolocation);
+    //        geolocation.getCurrentPosition();
+    ////        AMap.event.addListener(geolocation, 'complete', onComplete);//返回定位信息
+    ////        AMap.event.addListener(geolocation, 'error', onError);      //返回定位出错信息
+    //    });
+
+    var contents = [];
+    contents.push("<img src='http://i4.piimg.com/599509/654b7a331b150dc6.png'>");
+    contents.push("<text style=' font-size: 20px; text-align: center;'>Wujiang Gallery</text>")
+
+    var info = new AMap.InfoWindow({
+        content:contents.join(),
+        offset:new AMap.Pixel(0,-30)
+    });
+    info.open(map,marker.getPosition())
+
+    map.setLang('en');
+</script>
 
 
 

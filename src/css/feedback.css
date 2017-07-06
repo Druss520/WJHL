@@ -62,3 +62,12 @@
     z-index: 2;
     height: 88px;
 }
+
+
+#map-inside{
+    height: 706px;
+    width: 1160px;
+    border: none;
+    overflow: hidden;
+    margin: 66px auto auto 272px;
+}
