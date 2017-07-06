@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="17073b7e-3a3d-4db6-b05c-3b9e926c3850" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/feedback.css" afterPath="$PROJECT_DIR$/src/css/feedback.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/FeedbackPage/feedback.html" afterPath="$PROJECT_DIR$/src/view/FeedbackPage/feedback.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/FeedbackPage/feedback_en.html" afterPath="$PROJECT_DIR$/src/view/FeedbackPage/feedback_en.html" />
     </list>
@@ -83,10 +82,12 @@
       <file leaf-file-name="feedback.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/view/FeedbackPage/feedback.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="138" column="37" lean-forward="true" selection-start-line="138" selection-start-column="37" selection-end-line="138" selection-end-column="37" />
+            <state relative-caret-position="297">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding>
-                <marker date="1499327641242" expanded="true" signature="5998:6035" ph="..." />
+                <marker date="1499331478843" expanded="true" signature="6458:6495" ph="..." />
+                <marker date="1499331478843" expanded="true" signature="7292:7313" ph="..." />
+                <marker date="1499331478843" expanded="true" signature="7406:7461" ph="..." />
               </folding>
             </state>
           </provider>
@@ -95,10 +96,11 @@
       <file leaf-file-name="feedback_en.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/view/FeedbackPage/feedback_en.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="909">
-              <caret line="153" column="46" lean-forward="false" selection-start-line="153" selection-start-column="46" selection-end-line="153" selection-end-column="46" />
+            <state relative-caret-position="235">
+              <caret line="177" column="71" lean-forward="true" selection-start-line="177" selection-start-column="71" selection-end-line="177" selection-end-column="71" />
               <folding>
-                <marker date="1499327946883" expanded="true" signature="5400:5437" ph="..." />
+                <marker date="1499332123657" expanded="true" signature="6653:6674" ph="..." />
+                <marker date="1499332123657" expanded="true" signature="6767:6822" ph="..." />
               </folding>
             </state>
           </provider>
@@ -487,7 +489,7 @@
       <workItem from="1498962756130" duration="37313000" />
       <workItem from="1499068847605" duration="19000000" />
       <workItem from="1499137450198" duration="46657000" />
-      <workItem from="1499249400927" duration="20415000" />
+      <workItem from="1499249400927" duration="23931000" />
     </task>
     <task id="LOCAL-00001" summary="2nd commit">
       <created>1498808870151</created>
@@ -566,11 +568,18 @@
       <option name="project" value="LOCAL" />
       <updated>1499322304282</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="all done before test">
+      <created>1499328042174</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1499328042174</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219722000" />
+    <option name="totallyTimeSpent" value="223238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="91" width="1847" height="867" extended-state="0" />
@@ -610,7 +619,8 @@
     <MESSAGE value="fck vcs again and again" />
     <MESSAGE value="introduction all done" />
     <MESSAGE value="all done except the feedback map" />
-    <option name="LAST_COMMIT_MESSAGE" value="all done except the feedback map" />
+    <MESSAGE value="all done before test" />
+    <option name="LAST_COMMIT_MESSAGE" value="all done before test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1108,20 +1118,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/view/FeedbackPage/feedback.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="138" column="37" lean-forward="true" selection-start-line="138" selection-start-column="37" selection-end-line="138" selection-end-column="37" />
+        <state relative-caret-position="297">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding>
-            <marker date="1499327641242" expanded="true" signature="5998:6035" ph="..." />
+            <marker date="1499331478843" expanded="true" signature="6458:6495" ph="..." />
+            <marker date="1499331478843" expanded="true" signature="7292:7313" ph="..." />
+            <marker date="1499331478843" expanded="true" signature="7406:7461" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/view/FeedbackPage/feedback_en.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="909">
-          <caret line="153" column="46" lean-forward="false" selection-start-line="153" selection-start-column="46" selection-end-line="153" selection-end-column="46" />
+        <state relative-caret-position="235">
+          <caret line="177" column="71" lean-forward="true" selection-start-line="177" selection-start-column="71" selection-end-line="177" selection-end-column="71" />
           <folding>
-            <marker date="1499327946883" expanded="true" signature="5400:5437" ph="..." />
+            <marker date="1499332123657" expanded="true" signature="6653:6674" ph="..." />
+            <marker date="1499332123657" expanded="true" signature="6767:6822" ph="..." />
           </folding>
         </state>
       </provider>
