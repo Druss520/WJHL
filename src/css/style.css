@@ -105,6 +105,13 @@ div #home{
 
 }
 
+.producer{
+    position: fixed;
+    color: #eeeeee;
+    right: 72px;
+    bottom: 15px;
+}
+
 .copyright-balck{
     position: fixed;
     right: 72px;
@@ -116,7 +123,7 @@ div #home{
     position: fixed;
     width: 300px;
     right: 32px;
-    bottom: 25px;
+    bottom: 45px;
     color: #eeeeee;
     display: -webkit-box;
     -webkit-line-clamp: 3;
