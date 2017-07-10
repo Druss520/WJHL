@@ -2,9 +2,106 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17073b7e-3a3d-4db6-b05c-3b9e926c3850" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/dajiaojun.png" afterPath="$PROJECT_DIR$/src/img/dajiaojun.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/gongtanguzhen.png" afterPath="$PROJECT_DIR$/src/img/gongtanguzhen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/gongtanrenyijiudian.png" afterPath="$PROJECT_DIR$/src/img/gongtanrenyijiudian.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/guanguangyouchuan.png" afterPath="$PROJECT_DIR$/src/img/guanguangyouchuan.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/jidouhua.png" afterPath="$PROJECT_DIR$/src/img/jidouhua.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/jirenxuanzang_detail_frame.png" afterPath="$PROJECT_DIR$/src/img/jirenxuanzang_detail_frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/jirenxuanzang_detail_img.png" afterPath="$PROJECT_DIR$/src/img/jirenxuanzang_detail_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/liyushangshan.png" afterPath="$PROJECT_DIR$/src/img/liyushangshan.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/liyushangshan_detail_frame.png" afterPath="$PROJECT_DIR$/src/img/liyushangshan_detail_frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/liyushangshan_detail_img.png" afterPath="$PROJECT_DIR$/src/img/liyushangshan_detail_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/longmengxia.png" afterPath="$PROJECT_DIR$/src/img/longmengxia.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/longmenxia_detail_img.png" afterPath="$PROJECT_DIR$/src/img/longmenxia_detail_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/longmenxia_detial_frame.png" afterPath="$PROJECT_DIR$/src/img/longmenxia_detial_frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/lujiaozhen_detail_frame.png" afterPath="$PROJECT_DIR$/src/img/lujiaozhen_detail_frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/lujiaozhen_detail_img.png" afterPath="$PROJECT_DIR$/src/img/lujiaozhen_detail_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/mafengxia_detail_frame.png" afterPath="$PROJECT_DIR$/src/img/mafengxia_detail_frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/mafengyan.png" afterPath="$PROJECT_DIR$/src/img/mafengyan.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/mafengyan_detail_frame.png" afterPath="$PROJECT_DIR$/src/img/mafengyan_detail_frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/mafengyan_detail_img.png" afterPath="$PROJECT_DIR$/src/img/mafengyan_detail_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/miaozu.png" afterPath="$PROJECT_DIR$/src/img/miaozu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/miaozu_detail_img1.png" afterPath="$PROJECT_DIR$/src/img/miaozu_detail_img1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/miaozu_detail_img2.png" afterPath="$PROJECT_DIR$/src/img/miaozu_detail_img2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/muzishenggui.png" afterPath="$PROJECT_DIR$/src/img/muzishenggui.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/muzishenggui_detail_img.png" afterPath="$PROJECT_DIR$/src/img/muzishenggui_detail_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/muzishengui_detail_frame.png" afterPath="$PROJECT_DIR$/src/img/muzishengui_detail_frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/pengshuiliangjiangjiarijiudian.png" afterPath="$PROJECT_DIR$/src/img/pengshuiliangjiangjiarijiudian.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/qiangnianwuyangshu.png" afterPath="$PROJECT_DIR$/src/img/qiangnianwuyangshu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/qiannianwuyangshu.png" afterPath="$PROJECT_DIR$/src/img/qiannianwuyangshu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/qiannianwuyangshu_detail_frame.png" afterPath="$PROJECT_DIR$/src/img/qiannianwuyangshu_detail_frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/qiannianwuyangshu_detail_img.png" afterPath="$PROJECT_DIR$/src/img/qiannianwuyangshu_detail_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/shenghouwanglongtan.png" afterPath="$PROJECT_DIR$/src/img/shenghouwanglongtan.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/shenghouwangpangtan_detail_img.png" afterPath="$PROJECT_DIR$/src/img/shenghouwangpangtan_detail_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/shiliqiandao.png" afterPath="$PROJECT_DIR$/src/img/shiliqiandao.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/shiliqiandao_detail_frame.png" afterPath="$PROJECT_DIR$/src/img/shiliqiandao_detail_frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/shiliqiandao_detail_img.png" afterPath="$PROJECT_DIR$/src/img/shiliqiandao_detail_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/shui.png" afterPath="$PROJECT_DIR$/src/img/shui.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/tujiazu.png" afterPath="$PROJECT_DIR$/src/img/tujiazu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/tujiazu_detail_img1.png" afterPath="$PROJECT_DIR$/src/img/tujiazu_detail_img1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/tujiazu_detail_img2.png" afterPath="$PROJECT_DIR$/src/img/tujiazu_detail_img2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/wanzhuguzhen.png" afterPath="$PROJECT_DIR$/src/img/wanzhuguzhen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/wanzhuguzhen_detail_frame.png" afterPath="$PROJECT_DIR$/src/img/wanzhuguzhen_detail_frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/wu.png" afterPath="$PROJECT_DIR$/src/img/wu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/wujiangchuidiao.png" afterPath="$PROJECT_DIR$/src/img/wujiangchuidiao.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/wujiangchuidiao_detail_frame.png" afterPath="$PROJECT_DIR$/src/img/wujiangchuidiao_detail_frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/wujiangchuidiao_detail_img.png" afterPath="$PROJECT_DIR$/src/img/wujiangchuidiao_detail_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/wujiangdeshui_detail_frame.png" afterPath="$PROJECT_DIR$/src/img/wujiangdeshui_detail_frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/wujiangdeshui_detail_img.png" afterPath="$PROJECT_DIR$/src/img/wujiangdeshui_detail_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/wujiangdewu_detail_frame.png" afterPath="$PROJECT_DIR$/src/img/wujiangdewu_detail_frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/wujiangdewu_detail_img.png" afterPath="$PROJECT_DIR$/src/img/wujiangdewu_detail_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/wujiangdeyun_detail_frame.png" afterPath="$PROJECT_DIR$/src/img/wujiangdeyun_detail_frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/wujiangdeyun_detail_img.png" afterPath="$PROJECT_DIR$/src/img/wujiangdeyun_detail_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/wujianghualangayiheerriyou.png" afterPath="$PROJECT_DIR$/src/img/wujianghualangayiheerriyou.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/wujianghualangayihemoweishansiriyou.png" afterPath="$PROJECT_DIR$/src/img/wujianghualangayihemoweishansiriyou.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/wujianghualangayihemoweishanyanhewuriyou.png" afterPath="$PROJECT_DIR$/src/img/wujianghualangayihemoweishanyanhewuriyou.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/wujianghualangayihexiuxiansanriyou.png" afterPath="$PROJECT_DIR$/src/img/wujianghualangayihexiuxiansanriyou.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/wujianghualangjingpinerriyou.png" afterPath="$PROJECT_DIR$/src/img/wujianghualangjingpinerriyou.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/xiongshiyingke.png" afterPath="$PROJECT_DIR$/src/img/xiongshiyingke.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/xiongshiyingke_detail_frame.png" afterPath="$PROJECT_DIR$/src/img/xiongshiyingke_detail_frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/xiongshiyingke_detail_img.png" afterPath="$PROJECT_DIR$/src/img/xiongshiyingke_detail_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/yuanshidouhua.png" afterPath="$PROJECT_DIR$/src/img/yuanshidouhua.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/yuanshidouhua_detail_frame.png" afterPath="$PROJECT_DIR$/src/img/yuanshidouhua_detail_frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/yuanshidouhua_detail_img.png" afterPath="$PROJECT_DIR$/src/img/yuanshidouhua_detail_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/yumishi_detail_frame.png" afterPath="$PROJECT_DIR$/src/img/yumishi_detail_frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/yumishi_detail_img.png" afterPath="$PROJECT_DIR$/src/img/yumishi_detail_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/yun.png" afterPath="$PROJECT_DIR$/src/img/yun.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/zhoubianluxian.png" afterPath="$PROJECT_DIR$/src/img/zhoubianluxian.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/zhoubianluxian_detail_frame.png" afterPath="$PROJECT_DIR$/src/img/zhoubianluxian_detail_frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/zhoubianluxian_detail_img.png" afterPath="$PROJECT_DIR$/src/img/zhoubianluxian_detail_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/zijiayouxiangcheluxian_detail_img.png" afterPath="$PROJECT_DIR$/src/img/zijiayouxiangcheluxian_detail_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/zijiayouxingcheluxian.png" afterPath="$PROJECT_DIR$/src/img/zijiayouxingcheluxian.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/zijiayouxingcheluxian_detail_frame.png" afterPath="$PROJECT_DIR$/src/img/zijiayouxingcheluxian_detail_frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/玉米石.png" afterPath="$PROJECT_DIR$/src/img/玉米石.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/马蜂峡.png" afterPath="$PROJECT_DIR$/src/img/马蜂峡.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/鹿角镇.png" afterPath="$PROJECT_DIR$/src/img/鹿角镇.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index_en.html" afterPath="$PROJECT_DIR$/src/index_en.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/GeoPage/geo1/contents/detail2.html" afterPath="$PROJECT_DIR$/src/view/GeoPage/geo1/contents/detail2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/GeoPage/geo1/contents/en/detail1.html" afterPath="$PROJECT_DIR$/src/view/GeoPage/geo1/contents/en/detail1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/GeoPage/geo1/contents/en/detail2.html" afterPath="$PROJECT_DIR$/src/view/GeoPage/geo1/contents/en/detail2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/GeoPage/geo2/contents/detail2.html" afterPath="$PROJECT_DIR$/src/view/GeoPage/geo2/contents/detail2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail9.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail9.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro/intro.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro/intro.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/IntroPage/intro/intro_en.html" afterPath="$PROJECT_DIR$/src/view/IntroPage/intro/intro_en.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv1/serv.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv1/serv.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv1/serv1_en.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv1/serv1_en.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv2/contents/detail2.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv2/contents/detail2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv2/contents/en/detail2.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv2/contents/en/detail2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail1.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail2.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail3.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail4.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail5.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail6.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail6.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail1.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail2.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail3.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail4.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail5.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail6.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail6.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv6/serv6.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv6/serv6.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/ServPage/serv6/serv6_en.html" afterPath="$PROJECT_DIR$/src/view/ServPage/serv6/serv6_en.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,89 +116,62 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="geo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo1/geo.html">
+      <file leaf-file-name="detail1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+            <state relative-caret-position="255">
+              <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="detail2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo1/contents/detail2.html">
+        <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+            <state relative-caret-position="255">
+              <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="detail1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo1/contents/detail1.html">
+      <file leaf-file-name="detail3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+            <state relative-caret-position="255">
+              <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="detail2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo1/contents/en/detail2.html">
+      <file leaf-file-name="detail4.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+            <state relative-caret-position="255">
+              <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="detail1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo1/contents/en/detail1.html">
+      <file leaf-file-name="detail5.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+            <state relative-caret-position="255">
+              <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="feedback_en.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/view/FeedbackPage/feedback_en.html">
+      <file leaf-file-name="detail6.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-              <folding>
-                <marker date="1499334659786" expanded="true" signature="6689:6710" ph="..." />
-                <marker date="1499334659786" expanded="true" signature="6803:6858" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2125">
-              <caret line="125" column="13" lean-forward="false" selection-start-line="125" selection-start-column="13" selection-end-line="125" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="feedback.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/view/FeedbackPage/feedback.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-              <folding>
-                <marker date="1499334659717" expanded="true" signature="6494:6531" ph="..." />
-                <marker date="1499334659717" expanded="true" signature="7328:7349" ph="..." />
-                <marker date="1499334659717" expanded="true" signature="7442:7497" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -109,8 +179,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="98" column="39" lean-forward="true" selection-start-line="98" selection-start-column="39" selection-end-line="98" selection-end-column="39" />
+            <state relative-caret-position="816">
+              <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detail2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv2/contents/detail2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1479">
+              <caret line="87" column="15" lean-forward="false" selection-start-line="87" selection-start-column="15" selection-end-line="87" selection-end-column="122" />
               <folding />
             </state>
           </provider>
@@ -119,8 +199,18 @@
       <file leaf-file-name="index_en.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index_en.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-859">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="748">
+              <caret line="44" column="59" lean-forward="false" selection-start-line="44" selection-start-column="59" selection-end-line="44" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detail2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv2/contents/en/detail2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1207">
+              <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -142,27 +232,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail8.html" />
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail7.html" />
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail6.html" />
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail5.html" />
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail4.html" />
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail3.html" />
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail2.html" />
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail1.html" />
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail12.html" />
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail11.html" />
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail10.html" />
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail9.html" />
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail8.html" />
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail7.html" />
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail6.html" />
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail5.html" />
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail4.html" />
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail3.html" />
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail2.html" />
-        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail1.html" />
-        <option value="$PROJECT_DIR$/src/view/GeoPage/geo3/geo3_en.html" />
         <option value="$PROJECT_DIR$/src/view/GeoPage/geo3/geo3.html" />
         <option value="$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail6.html" />
         <option value="$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail5.html" />
@@ -178,19 +247,40 @@
         <option value="$PROJECT_DIR$/src/view/GeoPage/geo3/contents/en/detail1.html" />
         <option value="$PROJECT_DIR$/src/view/GeoPage/geo2/geo2_en.html" />
         <option value="$PROJECT_DIR$/src/view/GeoPage/geo2/geo2.html" />
-        <option value="$PROJECT_DIR$/src/view/GeoPage/geo2/contents/detail2.html" />
         <option value="$PROJECT_DIR$/src/view/GeoPage/geo2/contents/detail1.html" />
         <option value="$PROJECT_DIR$/src/view/GeoPage/geo2/contents/en/detail2.html" />
         <option value="$PROJECT_DIR$/src/view/GeoPage/geo2/contents/en/detail1.html" />
         <option value="$PROJECT_DIR$/src/view/GeoPage/geo1/geo1_en.html" />
         <option value="$PROJECT_DIR$/src/view/GeoPage/geo1/geo.html" />
-        <option value="$PROJECT_DIR$/src/view/GeoPage/geo1/contents/detail2.html" />
         <option value="$PROJECT_DIR$/src/view/GeoPage/geo1/contents/detail1.html" />
-        <option value="$PROJECT_DIR$/src/view/GeoPage/geo1/contents/en/detail2.html" />
-        <option value="$PROJECT_DIR$/src/view/GeoPage/geo1/contents/en/detail1.html" />
         <option value="$PROJECT_DIR$/src/view/FeedbackPage/feedback_en.html" />
         <option value="$PROJECT_DIR$/src/view/FeedbackPage/feedback.html" />
         <option value="$PROJECT_DIR$/src/css/style.css" />
+        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/intro.html" />
+        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail9.html" />
+        <option value="$PROJECT_DIR$/src/view/IntroPage/intro/intro_en.html" />
+        <option value="$PROJECT_DIR$/src/view/GeoPage/geo2/contents/detail2.html" />
+        <option value="$PROJECT_DIR$/src/view/GeoPage/geo1/contents/en/detail1.html" />
+        <option value="$PROJECT_DIR$/src/view/GeoPage/geo1/contents/en/detail2.html" />
+        <option value="$PROJECT_DIR$/src/view/GeoPage/geo1/contents/detail2.html" />
+        <option value="$PROJECT_DIR$/src/view/ServPage/serv1/serv1_en.html" />
+        <option value="$PROJECT_DIR$/src/view/ServPage/serv1/serv.html" />
+        <option value="$PROJECT_DIR$/src/view/ServPage/serv6/serv6.html" />
+        <option value="$PROJECT_DIR$/src/view/ServPage/serv6/serv6_en.html" />
+        <option value="$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail1.html" />
+        <option value="$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail2.html" />
+        <option value="$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail3.html" />
+        <option value="$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail4.html" />
+        <option value="$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail5.html" />
+        <option value="$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail6.html" />
+        <option value="$PROJECT_DIR$/src/view/ServPage/serv2/contents/detail2.html" />
+        <option value="$PROJECT_DIR$/src/view/ServPage/serv2/contents/en/detail2.html" />
+        <option value="$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail1.html" />
+        <option value="$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail2.html" />
+        <option value="$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail3.html" />
+        <option value="$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail4.html" />
+        <option value="$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail5.html" />
+        <option value="$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail6.html" />
         <option value="$PROJECT_DIR$/src/index_en.html" />
         <option value="$PROJECT_DIR$/src/index.html" />
       </list>
@@ -226,7 +316,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -832,348 +921,6 @@
               <option name="myItemId" value="view" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntroPage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intro4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntroPage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intro4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contents" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntroPage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intro4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contents" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntroPage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intro3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntroPage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intro3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contents" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntroPage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intro3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contents" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntroPage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intro2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntroPage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intro2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contents" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntroPage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intro2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contents" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntroPage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntroPage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contents" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WujiangGallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntroPage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contents" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1523,6 +1270,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -1653,7 +1401,10 @@
       <workItem from="1499137450198" duration="46657000" />
       <workItem from="1499249400927" duration="27939000" />
       <workItem from="1499395469941" duration="43000" />
-      <workItem from="1499409841183" duration="677000" />
+      <workItem from="1499409841183" duration="1906000" />
+      <workItem from="1499649580707" duration="60000" />
+      <workItem from="1499649661161" duration="8708000" />
+      <workItem from="1499667085805" duration="16000" />
     </task>
     <task id="LOCAL-00001" summary="2nd commit">
       <created>1498808870151</created>
@@ -1753,11 +1504,18 @@
       <option name="project" value="LOCAL" />
       <updated>1499336110345</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="all done before test, changed gaode map to baidu map">
+      <created>1499410528416</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1499410528416</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227966000" />
+    <option name="totallyTimeSpent" value="237979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="29" y="65" width="1847" height="867" extended-state="0" />
@@ -1766,12 +1524,12 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22282906" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1806,269 +1564,171 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail8.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail8.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="-425">
           <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail7.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/intro.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="578">
+          <caret line="94" column="49" lean-forward="true" selection-start-line="94" selection-start-column="49" selection-end-line="94" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail12.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail11.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail10.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail9.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail8.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail7.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="33" column="81" lean-forward="true" selection-start-line="33" selection-start-column="81" selection-end-line="33" selection-end-column="81" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="68">
+          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo3/geo3_en.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="-408">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo3/geo3.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="272">
+          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail6.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="289">
+          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail5.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="323">
+          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail4.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail12.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="-510">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail3.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="323">
+          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail2.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail7.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="374">
+          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo3/contents/detail1.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="323">
+          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo3/contents/en/detail6.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail11.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="306">
+          <caret line="42" column="7" lean-forward="true" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo3/contents/en/detail5.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/en/detail7.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="-510">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo3/contents/en/detail4.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail12.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo3/contents/en/detail3.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail11.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="306">
+          <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo3/contents/en/detail2.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail10.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="306">
+          <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo3/contents/en/detail1.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail8.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="153">
+          <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo2/geo2_en.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/contents/detail9.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="306">
+          <caret line="18" column="118" lean-forward="false" selection-start-line="18" selection-start-column="118" selection-end-line="18" selection-end-column="118" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo2/geo2.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro/intro_en.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="425">
+          <caret line="109" column="29" lean-forward="true" selection-start-line="109" selection-start-column="29" selection-end-line="109" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo2/contents/detail2.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro2/contents/detail1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="-51">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo2/contents/detail1.html">
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro3/contents/detail1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro4/contents/detail1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/IntroPage/intro4/contents/en/detail1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="48" column="43" lean-forward="true" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -2079,103 +1739,194 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo2/contents/en/detail1.html">
+    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo2/contents/detail2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo1/geo1_en.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo1/geo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo1/contents/detail2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo1/contents/en/detail2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-          <folding />
+        <state relative-caret-position="867">
+          <caret line="63" column="25" lean-forward="true" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo1/contents/en/detail1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-          <folding />
+        <state relative-caret-position="510">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/FeedbackPage/feedback_en.html">
+    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo1/contents/en/detail2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-          <folding>
-            <marker date="1499334659786" expanded="true" signature="6689:6710" ph="..." />
-            <marker date="1499334659786" expanded="true" signature="6803:6858" ph="..." />
-          </folding>
+        <state relative-caret-position="357">
+          <caret line="66" column="104" lean-forward="true" selection-start-line="66" selection-start-column="104" selection-end-line="66" selection-end-column="104" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/FeedbackPage/feedback.html">
+    <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo1/contents/detail2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
-          <folding>
-            <marker date="1499334659717" expanded="true" signature="6494:6531" ph="..." />
-            <marker date="1499334659717" expanded="true" signature="7328:7349" ph="..." />
-            <marker date="1499334659717" expanded="true" signature="7442:7497" ph="..." />
-          </folding>
+        <state relative-caret-position="340">
+          <caret line="65" column="100" lean-forward="false" selection-start-line="65" selection-start-column="100" selection-end-line="65" selection-end-column="100" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/view/GeoPage/geo1/contents/detail1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="-782">
           <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv1/serv1_en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" column="22" lean-forward="false" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv1/serv.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="29" column="22" lean-forward="false" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv6/serv6_en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="57" column="14" lean-forward="true" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv6/serv6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="22" lean-forward="true" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="34" column="44" lean-forward="true" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="32" column="47" lean-forward="true" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="118" lean-forward="false" selection-start-line="30" selection-start-column="118" selection-end-line="30" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="133" lean-forward="false" selection-start-line="30" selection-start-column="133" selection-end-line="30" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="30" column="134" lean-forward="false" selection-start-line="30" selection-start-column="134" selection-end-line="30" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv4/contents/detail6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv2/contents/detail1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv2/contents/detail2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="87" column="15" lean-forward="false" selection-start-line="87" selection-start-column="15" selection-end-line="87" selection-end-column="122" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/style.css">
+    <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv2/contents/en/detail2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2125">
-          <caret line="125" column="13" lean-forward="false" selection-start-line="125" selection-start-column="13" selection-end-line="125" selection-end-column="13" />
+        <state relative-caret-position="1207">
+          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ServPage/serv4/contents/en/detail6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index_en.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-859">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="748">
+          <caret line="44" column="59" lean-forward="false" selection-start-line="44" selection-start-column="59" selection-end-line="44" selection-end-column="59" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="98" column="39" lean-forward="true" selection-start-line="98" selection-start-column="39" selection-end-line="98" selection-end-column="39" />
+        <state relative-caret-position="816">
+          <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
           <folding />
         </state>
       </provider>
